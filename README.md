@@ -8,3 +8,8 @@ This application is designed to test out how Spring Cloud Gateway works. There h
 
 The premise is that we integrate this UI with spring gateway to simulate production scenarios and prove out how to approach the models while also exploring other options (e.g. AWS API Gateway, WAFs, etc)
 
+# Back end services
+
+As we build out the system the backend will be developed using Spring specific technologies. Other technologies will eventually be explored.
+
+Potential name for this compendium? Spring Cloud Recipes.
