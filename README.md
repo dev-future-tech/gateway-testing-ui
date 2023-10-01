@@ -31,7 +31,7 @@ Potential name for this compendium? Spring Cloud Recipes.
     * A representation of a cart that contains products from the Product API
     * Links to a User account that is temporarily managed by the Cart API
 
-# Scenerio 1 - Basic Pproduct Listing
+# Scenerio 1 - Basic Product Listing
 
 THis scenario will allow the gateway to proxy requests to the product API to get a list of products.
 
